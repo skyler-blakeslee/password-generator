@@ -3,10 +3,10 @@
 
 A Web Application which generates random passwords according to user criteria
 
-Developed by Skyler Blakeslee.
+Developed by Skyler Blakeslee
 
-URL: https://skyler-blakeslee.github.io/password-generator/
-Git Repository: https://github.com/skyler-blakeslee/password-generator
+- URL: https://skyler-blakeslee.github.io/password-generator/
+- Git Repository: https://github.com/skyler-blakeslee/password-generator
 
 ## Table of Contents
 - [Functionality](#functionality)
@@ -27,10 +27,10 @@ The desired number of characters are then randomly selected from this combined a
 ## Modifications
 
 - add functionality allowing specific special characters to be included or excluded as desired
-- incorporate technology allowing for more cpmplete randomization
+- incorporate technology allowing for more complete randomization
 - improve UI
 
 ## Screenshots
 
-### home page
+### Home Page
 ![home page image](./images/password-generator-home.png)
