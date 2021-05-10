@@ -26,11 +26,11 @@ The desired number of characters are then randomly selected from this combined a
 
 ## Modifications
 
--add functionality allowing specific special characters to be included or excluded as desired
--incorporate technology allowing for more cpmplete randomization
--improve UI
+- add functionality allowing specific special characters to be included or excluded as desired
+- incorporate technology allowing for more cpmplete randomization
+- improve UI
 
 ## Screenshots
 
 ### home page
-![home page image](./images/passwird-generator-home.png)
+![home page image](./images/password-generator-home.png)
